@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TaskrTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.034 s <<< FAILURE! - in TaskrTests
+TaskrTests.addTask  Time elapsed: 0.02 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to locate CDIProvider
+	at TaskrTests.setUp(TaskrTests.java:14)
+
